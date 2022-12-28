@@ -313,14 +313,5 @@
     "category": "games",
     "image": "https://drive.google.com/uc?export=download&id=1o7nQku8jZHvHpQ5H0PGQrkkOR9Qj_Evm",
     "rating": { "rate": 3.6, "count": 145 }
-  },
-  {
-    "id": 35,
-    "title": "Apple MacBook Air",
-    "price": 42.44,
-    "description": "The MacBook Air is a line of ultrabook computers developed and manufactured by Apple Inc. It consists of a full-size keyboard, a machined aluminum case, and, in the more modern versions",
-    "category": "games",
-    "image": "https://drive.google.com/uc?export=download&id=1T8felUY4-1P0Y_q5UKt6R1eSwFPncxaB",
-    "rating": { "rate": 3.6, "count": 145 }
   }
 ]
